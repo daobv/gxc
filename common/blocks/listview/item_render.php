@@ -1,6 +1,5 @@
 <?php  
   $link = $data->getObjectLink();
-
 ?>
 <div class="half">
 	<p style="margin-top:0">
