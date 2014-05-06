@@ -1,0 +1,307 @@
+2014/05/06 17:49:33 [trace] [system.CModule] Loading "log" application component
+in /var/www/gxc/backend/index.php (20)
+2014/05/06 17:49:33 [trace] [system.CModule] Loading "request" application component
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (112)
+in /var/www/gxc/backend/index.php (20)
+2014/05/06 17:49:33 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/GXC-CMS-2/core/cms/components/HttpRequest.php (66)
+in /var/www/GXC-CMS-2/core/cms/components/HttpRequest.php (13)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (112)
+2014/05/06 17:49:33 [trace] [system.CModule] Loading "viewRenderer" application component
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/panels/YiiDebugToolbarPanelViewsRendering.php (35)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/YiiDebugToolbar.php (191)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/YiiDebugToolbar.php (111)
+2014/05/06 17:49:33 [trace] [system.CModule] Loading "db" application component
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/panels/YiiDebugToolbarPanelSql.php (46)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/YiiDebugToolbar.php (182)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/YiiDebugToolbar.php (111)
+2014/05/06 17:49:33 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/panels/YiiDebugToolbarPanelSql.php (46)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/YiiDebugToolbar.php (182)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/YiiDebugToolbar.php (111)
+2014/05/06 17:49:34 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/YiiDebugToolbar.php (132)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/YiiDebugToolbar.php (112)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (143)
+2014/05/06 17:49:34 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/GXC-CMS-2/core/cms/components/GxcHelpers.php (217)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/YiiDebugToolbar.php (80)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/YiiDebugToolbar.php (140)
+2014/05/06 17:49:34 [trace] [system.base.CModule] Loading "install" module
+in /var/www/gxc/backend/index.php (20)
+2014/05/06 17:49:34 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/GXC-CMS-2/core/cms/modules/install/views/run/index.php (9)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/components/YiiDebugViewRenderer.php (47)
+in /var/www/GXC-CMS-2/core/cms/modules/install/controllers/RunController.php (148)
+2014/05/06 17:49:34 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/GXC-CMS-2/core/cms/modules/install/views/run/index.php (10)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/components/YiiDebugViewRenderer.php (47)
+in /var/www/GXC-CMS-2/core/cms/modules/install/controllers/RunController.php (148)
+2014/05/06 17:49:34 [trace] [system.CModule] Loading "messages" application component
+in /var/www/GXC-CMS-2/core/cms/globals.php (83)
+in /var/www/GXC-CMS-2/core/cms/modules/install/models/InstallForm.php (31)
+in /var/www/GXC-CMS-2/core/cms/modules/install/views/run/index.php (13)
+2014/05/06 17:49:47 [trace] [system.CModule] Loading "log" application component
+in /var/www/gxc/backend/index.php (20)
+2014/05/06 17:49:47 [trace] [system.CModule] Loading "request" application component
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (112)
+in /var/www/gxc/backend/index.php (20)
+2014/05/06 17:49:47 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/GXC-CMS-2/core/cms/components/HttpRequest.php (66)
+in /var/www/GXC-CMS-2/core/cms/components/HttpRequest.php (13)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (112)
+2014/05/06 17:49:47 [trace] [system.CModule] Loading "viewRenderer" application component
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/panels/YiiDebugToolbarPanelViewsRendering.php (35)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/YiiDebugToolbar.php (191)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/YiiDebugToolbar.php (111)
+2014/05/06 17:49:47 [trace] [system.CModule] Loading "db" application component
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/panels/YiiDebugToolbarPanelSql.php (46)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/YiiDebugToolbar.php (182)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/YiiDebugToolbar.php (111)
+2014/05/06 17:49:47 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/panels/YiiDebugToolbarPanelSql.php (46)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/YiiDebugToolbar.php (182)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/YiiDebugToolbar.php (111)
+2014/05/06 17:49:47 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/YiiDebugToolbar.php (132)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/YiiDebugToolbar.php (112)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (143)
+2014/05/06 17:49:47 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/GXC-CMS-2/core/cms/components/GxcHelpers.php (217)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/YiiDebugToolbar.php (80)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/YiiDebugToolbar.php (140)
+2014/05/06 17:49:47 [trace] [system.web.filters.CFilterChain] Running filter SiteController.filterrights()
+in /var/www/gxc/backend/index.php (20)
+2014/05/06 17:49:47 [trace] [system.CModule] Loading "user" application component
+in /var/www/GXC-CMS-2/core/cms/modules/rights/components/RightsFilter.php (24)
+in /var/www/GXC-CMS-2/core/cms/modules/rights/components/RController.php (39)
+in /var/www/gxc/backend/index.php (20)
+2014/05/06 17:49:47 [trace] [system.CModule] Loading "session" application component
+in /var/www/GXC-CMS-2/core/cms/modules/rights/components/RightsFilter.php (24)
+in /var/www/GXC-CMS-2/core/cms/modules/rights/components/RController.php (39)
+in /var/www/gxc/backend/index.php (20)
+2014/05/06 17:49:47 [trace] [system.CModule] Loading "db" application component
+in /var/www/GXC-CMS-2/core/cms/modules/rights/components/RightsFilter.php (24)
+in /var/www/GXC-CMS-2/core/cms/modules/rights/components/RController.php (39)
+in /var/www/gxc/backend/index.php (20)
+2014/05/06 17:49:47 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/GXC-CMS-2/core/cms/modules/rights/components/RightsFilter.php (24)
+in /var/www/GXC-CMS-2/core/cms/modules/rights/components/RController.php (39)
+in /var/www/gxc/backend/index.php (20)
+2014/05/06 17:49:47 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: invalid data source name' in /var/www/GXC-CMS-2/core/yii/framework/db/CDbConnection.php:381
+Stack trace:
+#0 /var/www/GXC-CMS-2/core/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /var/www/GXC-CMS-2/core/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /var/www/GXC-CMS-2/core/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /var/www/GXC-CMS-2/core/yii/framework/web/CDbHttpSession.php(160): CModule->getComponent('db')
+#4 /var/www/GXC-CMS-2/core/yii/framework/web/CDbHttpSession.php(206): CDbHttpSession->getDbConnection()
+#5 [internal function]: CDbHttpSession->readSession('nntslbam5e3jh3d...')
+#6 /var/www/GXC-CMS-2/core/yii/framework/web/CHttpSession.php(118): session_start()
+#7 /var/www/GXC-CMS-2/core/yii/framework/web/CHttpSession.php(92): CHttpSession->open()
+#8 /var/www/GXC-CMS-2/core/yii/framework/base/CModule.php(387): CHttpSession->init()
+#9 /var/www/GXC-CMS-2/core/yii/framework/web/CWebApplication.php(201): CModule->getComponent('session')
+#10 /var/www/GXC-CMS-2/core/yii/framework/web/auth/CWebUser.php(193): CWebApplication->getSession()
+#11 /var/www/GXC-CMS-2/core/yii/framework/base/CModule.php(387): CWebUser->init()
+#12 /var/www/GXC-CMS-2/core/yii/framework/web/CWebApplication.php(209): CModule->getComponent('user')
+#13 /var/www/GXC-CMS-2/core/cms/modules/rights/components/RightsFilter.php(24): CWebApplication->getUser()
+#14 /var/www/GXC-CMS-2/core/yii/framework/web/filters/CFilter.php(38): RightsFilter->preFilter(Object(CFilterChain))
+#15 /var/www/GXC-CMS-2/core/cms/modules/rights/components/RController.php(39): CFilter->filter(Object(CFilterChain))
+#16 /var/www/GXC-CMS-2/core/yii/framework/web/filters/CInlineFilter.php(58): RController->filterRights(Object(CFilterChain))
+#17 /var/www/GXC-CMS-2/core/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#18 /var/www/GXC-CMS-2/core/yii/framework/web/CController.php(291): CFilterChain->run()
+#19 /var/www/GXC-CMS-2/core/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#20 /var/www/GXC-CMS-2/core/yii/framework/web/CWebApplication.php(282): CController->run('')
+#21 /var/www/GXC-CMS-2/core/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#22 /var/www/GXC-CMS-2/core/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#23 /var/www/gxc/backend/index.php(20): CApplication->run()
+#24 {main}
+REQUEST_URI=/backend/
+HTTP_REFERER=http://gxc.local/backend/install
+---
+2014/05/06 17:49:47 [trace] [system.CModule] Loading "errorHandler" application component
+2014/05/06 17:49:47 [trace] [system.CModule] Loading "messages" application component
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/YiiDebug.php (56)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/views/yii_debug_toolbar.php (2)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/components/YiiDebugViewRenderer.php (47)
+2014/05/06 17:49:47 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/views/yii_debug_toolbar.php (26)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/components/YiiDebugViewRenderer.php (47)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/YiiDebugToolbar.php (122)
+2014/05/05 23:49:59 [trace] [system.CModule] Loading "log" application component
+in /var/www/gxc/backend/index.php (20)
+2014/05/05 23:49:59 [trace] [system.CModule] Loading "request" application component
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (112)
+in /var/www/gxc/backend/index.php (20)
+2014/05/05 23:49:59 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/GXC-CMS-2/core/cms/components/HttpRequest.php (66)
+in /var/www/GXC-CMS-2/core/cms/components/HttpRequest.php (13)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (112)
+2014/05/05 23:49:59 [trace] [system.CModule] Loading "viewRenderer" application component
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/panels/YiiDebugToolbarPanelViewsRendering.php (35)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/YiiDebugToolbar.php (191)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/YiiDebugToolbar.php (111)
+2014/05/05 23:49:59 [trace] [system.CModule] Loading "db" application component
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/panels/YiiDebugToolbarPanelSql.php (46)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/YiiDebugToolbar.php (182)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/YiiDebugToolbar.php (111)
+2014/05/05 23:49:59 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/panels/YiiDebugToolbarPanelSql.php (46)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/YiiDebugToolbar.php (182)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/YiiDebugToolbar.php (111)
+2014/05/05 23:49:59 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/YiiDebugToolbar.php (132)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/YiiDebugToolbar.php (112)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (143)
+2014/05/05 23:49:59 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/GXC-CMS-2/core/cms/components/GxcHelpers.php (217)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/YiiDebugToolbar.php (80)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/YiiDebugToolbar.php (140)
+2014/05/05 23:49:59 [trace] [system.web.filters.CFilterChain] Running filter SiteController.filterrights()
+in /var/www/gxc/backend/index.php (20)
+2014/05/05 23:49:59 [trace] [system.CModule] Loading "user" application component
+in /var/www/GXC-CMS-2/core/cms/modules/rights/components/RightsFilter.php (24)
+in /var/www/GXC-CMS-2/core/cms/modules/rights/components/RController.php (39)
+in /var/www/gxc/backend/index.php (20)
+2014/05/05 23:49:59 [trace] [system.CModule] Loading "session" application component
+in /var/www/GXC-CMS-2/core/cms/modules/rights/components/RightsFilter.php (24)
+in /var/www/GXC-CMS-2/core/cms/modules/rights/components/RController.php (39)
+in /var/www/gxc/backend/index.php (20)
+2014/05/05 23:49:59 [trace] [system.db.CDbCommand] Querying SQL: SELECT `data`
+FROM `gxc_session`
+WHERE expire>:expire AND id=:id. Bound with :expire=1399373399, :id='nntslbam5e3jh3djq0s8b0oj53'
+in /var/www/GXC-CMS-2/core/cms/modules/rights/components/RightsFilter.php (24)
+in /var/www/GXC-CMS-2/core/cms/modules/rights/components/RController.php (39)
+in /var/www/gxc/backend/index.php (20)
+2014/05/05 23:49:59 [trace] [system.CModule] Loading "securityManager" application component
+in /var/www/GXC-CMS-2/core/cms/modules/rights/components/RightsFilter.php (24)
+in /var/www/GXC-CMS-2/core/cms/modules/rights/components/RController.php (39)
+in /var/www/gxc/backend/index.php (20)
+2014/05/05 23:49:59 [trace] [system.CModule] Loading "statePersister" application component
+in /var/www/GXC-CMS-2/core/cms/modules/rights/components/RightsFilter.php (24)
+in /var/www/GXC-CMS-2/core/cms/modules/rights/components/RController.php (39)
+in /var/www/gxc/backend/index.php (20)
+2014/05/05 23:49:59 [trace] [system.CModule] Loading "cache" application component
+in /var/www/GXC-CMS-2/core/cms/modules/rights/components/RightsFilter.php (24)
+in /var/www/GXC-CMS-2/core/cms/modules/rights/components/RController.php (39)
+in /var/www/gxc/backend/index.php (20)
+2014/05/05 23:49:59 [trace] [system.CModule] Loading "messages" application component
+in /var/www/GXC-CMS-2/core/cms/globals.php (83)
+in /var/www/gxc/backend/protected/views/site/index.php (4)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/components/YiiDebugViewRenderer.php (47)
+2014/05/05 23:49:59 [trace] [system.caching.CFileCache] Saving "gxchelpers-content-types-false" to cache
+in /var/www/GXC-CMS-2/core/cms/components/GxcHelpers.php (240)
+in /var/www/gxc/backend/protected/views/site/index.php (6)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/components/YiiDebugViewRenderer.php (47)
+2014/05/05 23:49:59 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/gxc/backend/protected/views/layouts/menu.php (225)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/components/YiiDebugViewRenderer.php (47)
+in /var/www/gxc/backend/protected/views/layouts/main.php (35)
+2014/05/05 23:50:02 [trace] [system.CModule] Loading "log" application component
+in /var/www/gxc/backend/index.php (20)
+2014/05/05 23:50:02 [trace] [system.CModule] Loading "request" application component
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (112)
+in /var/www/gxc/backend/index.php (20)
+2014/05/05 23:50:02 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/GXC-CMS-2/core/cms/components/HttpRequest.php (66)
+in /var/www/GXC-CMS-2/core/cms/components/HttpRequest.php (13)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (112)
+2014/05/05 23:50:02 [trace] [system.CModule] Loading "viewRenderer" application component
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/panels/YiiDebugToolbarPanelViewsRendering.php (35)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/YiiDebugToolbar.php (191)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/YiiDebugToolbar.php (111)
+2014/05/05 23:50:02 [trace] [system.CModule] Loading "db" application component
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/panels/YiiDebugToolbarPanelSql.php (46)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/YiiDebugToolbar.php (182)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/YiiDebugToolbar.php (111)
+2014/05/05 23:50:02 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/panels/YiiDebugToolbarPanelSql.php (46)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/YiiDebugToolbar.php (182)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/YiiDebugToolbar.php (111)
+2014/05/05 23:50:02 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/YiiDebugToolbar.php (132)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/YiiDebugToolbar.php (112)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (143)
+2014/05/05 23:50:02 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/GXC-CMS-2/core/cms/components/GxcHelpers.php (217)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/YiiDebugToolbar.php (80)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/YiiDebugToolbar.php (140)
+2014/05/05 23:50:02 [trace] [system.CModule] Loading "messages" application component
+in /var/www/GXC-CMS-2/core/cms/globals.php (83)
+in /var/www/gxc/backend/protected/controllers/TermController.php (17)
+in /var/www/gxc/backend/index.php (20)
+2014/05/05 23:50:02 [trace] [system.web.filters.CFilterChain] Running filter TermController.filterrights()
+in /var/www/gxc/backend/index.php (20)
+2014/05/05 23:50:02 [trace] [system.CModule] Loading "user" application component
+in /var/www/GXC-CMS-2/core/cms/modules/rights/components/RightsFilter.php (24)
+in /var/www/GXC-CMS-2/core/cms/modules/rights/components/RController.php (39)
+in /var/www/gxc/backend/index.php (20)
+2014/05/05 23:50:02 [trace] [system.CModule] Loading "session" application component
+in /var/www/GXC-CMS-2/core/cms/modules/rights/components/RightsFilter.php (24)
+in /var/www/GXC-CMS-2/core/cms/modules/rights/components/RController.php (39)
+in /var/www/gxc/backend/index.php (20)
+2014/05/05 23:50:02 [trace] [system.db.CDbCommand] Querying SQL: SELECT `data`
+FROM `gxc_session`
+WHERE expire>:expire AND id=:id. Bound with :expire=1399373402, :id='nntslbam5e3jh3djq0s8b0oj53'
+in /var/www/GXC-CMS-2/core/cms/modules/rights/components/RightsFilter.php (24)
+in /var/www/GXC-CMS-2/core/cms/modules/rights/components/RController.php (39)
+in /var/www/gxc/backend/index.php (20)
+2014/05/05 23:50:02 [trace] [system.CModule] Loading "securityManager" application component
+in /var/www/GXC-CMS-2/core/cms/modules/rights/components/RightsFilter.php (24)
+in /var/www/GXC-CMS-2/core/cms/modules/rights/components/RController.php (39)
+in /var/www/gxc/backend/index.php (20)
+2014/05/05 23:50:02 [trace] [system.CModule] Loading "statePersister" application component
+in /var/www/GXC-CMS-2/core/cms/modules/rights/components/RightsFilter.php (24)
+in /var/www/GXC-CMS-2/core/cms/modules/rights/components/RController.php (39)
+in /var/www/gxc/backend/index.php (20)
+2014/05/05 23:50:02 [trace] [system.CModule] Loading "cache" application component
+in /var/www/GXC-CMS-2/core/cms/modules/rights/components/RightsFilter.php (24)
+in /var/www/GXC-CMS-2/core/cms/modules/rights/components/RController.php (39)
+in /var/www/gxc/backend/index.php (20)
+2014/05/05 23:50:02 [trace] [system.caching.CFileCache] Saving "Yii.CStatePersister./var/www/gxc/backend/protected/runtime/state.bin" to cache
+in /var/www/GXC-CMS-2/core/cms/modules/rights/components/RightsFilter.php (24)
+in /var/www/GXC-CMS-2/core/cms/modules/rights/components/RController.php (39)
+in /var/www/gxc/backend/index.php (20)
+2014/05/05 23:50:02 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/gxc/backend/protected/views/term/term_create.php (7)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/components/YiiDebugViewRenderer.php (47)
+in /var/www/gxc/backend/protected/controllers/TermController.php (30)
+2014/05/05 23:50:02 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `gxc_term`
+in /var/www/GXC-CMS-2/core/cms/widgets/object/TermCreateWidget.php (34)
+in /var/www/GXC-CMS-2/core/cms/widgets/object/TermCreateWidget.php (28)
+in /var/www/gxc/backend/protected/views/term/term_create.php (7)
+2014/05/05 23:50:02 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `gxc_term`
+in /var/www/GXC-CMS-2/core/cms/widgets/object/TermCreateWidget.php (34)
+in /var/www/GXC-CMS-2/core/cms/widgets/object/TermCreateWidget.php (28)
+in /var/www/gxc/backend/protected/views/term/term_create.php (7)
+2014/05/05 23:50:02 [trace] [system.caching.CFileCache] Saving "yii:dbschemamysql:host=localhost;dbname=gxc:root:{{term}}" to cache
+in /var/www/GXC-CMS-2/core/cms/widgets/object/TermCreateWidget.php (34)
+in /var/www/GXC-CMS-2/core/cms/widgets/object/TermCreateWidget.php (28)
+in /var/www/gxc/backend/protected/views/term/term_create.php (7)
+2014/05/05 23:50:02 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/GXC-CMS-2/core/cms/widgets/views/term/term_form_widget.php (18)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/components/YiiDebugViewRenderer.php (47)
+in /var/www/GXC-CMS-2/core/cms/widgets/object/TermCreateWidget.php (58)
+2014/05/05 23:50:02 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `gxc_taxonomy`
+in /var/www/GXC-CMS-2/core/cms/models/object/Taxonomy.php (22)
+in /var/www/GXC-CMS-2/core/cms/models/object/Taxonomy.php (126)
+in /var/www/GXC-CMS-2/core/cms/widgets/views/term/term_form_widget.php (25)
+2014/05/05 23:50:02 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `gxc_taxonomy`
+in /var/www/GXC-CMS-2/core/cms/models/object/Taxonomy.php (22)
+in /var/www/GXC-CMS-2/core/cms/models/object/Taxonomy.php (126)
+in /var/www/GXC-CMS-2/core/cms/widgets/views/term/term_form_widget.php (25)
+2014/05/05 23:50:02 [trace] [system.caching.CFileCache] Saving "yii:dbschemamysql:host=localhost;dbname=gxc:root:{{taxonomy}}" to cache
+in /var/www/GXC-CMS-2/core/cms/models/object/Taxonomy.php (22)
+in /var/www/GXC-CMS-2/core/cms/models/object/Taxonomy.php (126)
+in /var/www/GXC-CMS-2/core/cms/widgets/views/term/term_form_widget.php (25)
+2014/05/05 23:50:02 [trace] [system.db.ar.CActiveRecord] Taxonomy.findAll()
+in /var/www/GXC-CMS-2/core/cms/models/object/Taxonomy.php (126)
+in /var/www/GXC-CMS-2/core/cms/widgets/views/term/term_form_widget.php (25)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/components/YiiDebugViewRenderer.php (47)
+2014/05/05 23:50:02 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `gxc_taxonomy` `t`
+in /var/www/GXC-CMS-2/core/cms/models/object/Taxonomy.php (126)
+in /var/www/GXC-CMS-2/core/cms/widgets/views/term/term_form_widget.php (25)
+in /var/www/GXC-CMS-2/core/cms/extensions/yii-debug-toolbar/components/YiiDebugViewRenderer.php (47)
+2014/05/05 23:50:02 [trace] [system.caching.CFileCache] Saving "gxchelpers-available-languages-false" to cache
+in /var/www/GXC-CMS-2/core/cms/components/GxcHelpers.php (448)
+in /var/www/GXC-CMS-2/core/cms/models/object/Taxonomy.php (127)
+in /var/www/GXC-CMS-2/core/cms/widgets/views/term/term_form_widget.php (25)
